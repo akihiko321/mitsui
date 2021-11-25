@@ -13,6 +13,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ![This is an image](IMG_E6160[1].JPG)
 
+これはフグを釣ったときの写真です。
+これからも釣りをもっと楽しんでいきたいです。
+
 
 ```markdown
 Syntax highlighted code block
