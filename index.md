@@ -8,12 +8,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+こんにちは、私の名前は三ツ井皓彦です。
+私は最近、釣りにハマっています。
+
+![This is an image](IMG_E6160[1].JPG)
+
+
 ```markdown
 Syntax highlighted code block
 
-# 三ツ井皓彦
-## Header2
-###　Header3
 
 - Bulleted
 - List
